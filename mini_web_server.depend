@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590588224 source:e:\private\more\c++\mini_web_server\main.cpp
+	<fstream>
+	"classes.h"
+
+1590584146 e:\private\more\c++\mini_web_server\classes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<WinSock2.h>
+	<WS2tcpip.h>
+
